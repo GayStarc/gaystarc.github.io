@@ -1,16 +1,26 @@
+#### About Me
 
+I'm a junior student at the [School of Electronic Engineering and Computer Science(EECS)](https://eecs.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/). I'm honored to be advised by Prof. [Shanghang Zhang](https://www.shanghangzhang.com/). I am also interning at [Beijing Academy of Artificial Intelligence](https://www.baai.ac.cn/). My research focuses on **Embodied AI** and  **Robotic Manipulation**.
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+**`<u>`To do everything with your best.`</u>`**
 
 #### Email
-sli[at]cumt.edu.cn
+
+gcy572092284@stu.pku.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+* <img src="./PKU.png" alt="PKU" style="height: 20px" /> **Peking University (2022/09 ~ present)**
+    * *Undergraduate, Information and Computing Science*
+
+
+
+
+#### Internship
+
+* <img src="./BAAI.png" alt="BAAI" style="height: 20px" /> **[Beijing Academy of Artificial Intelligence](https://www.baai.ac.cn/) (2024/11 ~ present)**
+    * *Embodied Intelligence Large Model*
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+**Embodied AI**, **Robotic Manipulation**.
