@@ -8,12 +8,12 @@ gcy572092284@stu.pku.edu.cn
 
 #### Education
 
-* ![PKU](./pku.png) **Peking University (2022/09 ~ present)**
+* **Peking University (2022/09 ~ present)**
   * *Undergraduate, Information and Computing Science*
 
 #### Internship
 
-* ![BAAI](./baai.png)**[Beijing Academy of Artificial Intelligence](https://www.baai.ac.cn/) (2024/11 ~ present)**
+* **[Beijing Academy of Artificial Intelligence](https://www.baai.ac.cn/) (2024/11 ~ present)**
 * *Embodied Intelligence Large Model*
 
 #### Research Interests
