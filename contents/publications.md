@@ -1,5 +1,2 @@
 - **Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation** ( *In Submission* )
-*Yueru Jia\*, Jiaming Liu\*, Sixiang Chen\*, <strong>Chenyang Gu</strong>, Zhilue Wang, Longzan Luo, Lily Lee, Pengwei Wang, Zhongyuan Wang, Renrui Zhang, Shanghang Zhang*. Label Noise-Robust Learning for Microseismic Arrival Time Picking.[[Project Page](https://lift3d-web.github.io/)][[Paper](https://arxiv.org/abs/2411.18623)][[Code](https://github.com/PKU-HMI-Lab/LIFT3D)]
-
-
-
+  *Yueru Jia\*, Jiaming Liu\*, Sixiang Chen\*, `<strong>`Chenyang Gu `</strong>`, Zhilue Wang, Longzan Luo, Lily Lee, Pengwei Wang, Zhongyuan Wang, Renrui Zhang, Shanghang Zhang*.[[Project Page](https://lift3d-web.github.io/)][[Paper](https://arxiv.org/abs/2411.18623)][[Code](https://github.com/PKU-HMI-Lab/LIFT3D)]
