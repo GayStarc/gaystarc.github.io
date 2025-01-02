@@ -14,7 +14,7 @@ gcy572092284@stu.pku.edu.cn
 #### Internship
 
 * **[Beijing Academy of Artificial Intelligence](https://www.baai.ac.cn/) (2024/11 ~ present)**
-* *Embodied Intelligence Large Model*
+  * *Embodied Intelligence Large Model*
 
 #### Research Interests
 
