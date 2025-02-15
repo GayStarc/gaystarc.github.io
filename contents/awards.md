@@ -1,5 +1,5 @@
 - **Peking University Huatai Technology Securities Scholarship, 2024**
-- **Outstanding Student Cadres, 2024**
+- **Excellent Student Leader, 2024**
 - **Peking University Yanchuang Capital Scholarship, 2023**
 - **Merit Student, 2023**
 - **Advanced Class Collective, 2023**
