@@ -7,7 +7,7 @@
 - **RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation** ( <strong>*RSS 2025* </strong> )  
     *Kun Wu\*, Chengkai Hou\*, Jiaming Liu\*, Zhengping Che\*, Xiaozhu Ju\*, Zhuqin Yang, Meng Li, Yinuo Zhao, Zhiyuan Xu, Guang Yang, Shichao Fan, Xinhua Wang, Fei Liao, Zhen Zhao, Guangyu Li, Zhao Jin, Lecheng Wang, Jilei Mao, Ning Liu, Pei Ren, Qiang Zhang, Yaoxu Lyu, Mengzhen Liu, He Jingyang, Yulin Luo, Zeyu Gao, Chenxuan Li, <strong>Chenyang Gu</strong>, Yankai Fu, Di Wu, Xingyu Wang, Sixiang Chen, Zhenyu Wang, Pengju An, Siyuan Qian, Shanghang Zhang, Jian Tang*.[[Project Page](https://x-humanoid-robomind.github.io/)][[Paper](https://arxiv.org/pdf/2412.13877)][[Data](https://data.flopsera.com/data-detail/21181956226031626?type=open)]
 
-- **RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot** (*Under Review*) 
+- **RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot** (*IROS 2025*) 
     *Liang Heng\*, Xiaoqi Li\*, Shangqing Mao, Jiaming Liu, Ruolin Liu, Jingli Wei, YuKai Wang, Yueru Jia, <strong>Chenyang Gu</strong>, Rui Zhao, Shanghang Zhang, and Hao Dong*.[[Project Page](https://sites.google.com/view/rwor)]
 
 - **HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model** (*Under Review*)
