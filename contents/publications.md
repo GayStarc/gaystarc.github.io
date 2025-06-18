@@ -9,7 +9,7 @@
 
 - **RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot** ( <strong>*IROS 2025* </strong> ) 
     
-    *Liang Heng\*, Xiaoqi Li\*, Shangqing Mao, Jiaming Liu, Ruolin Liu, Jingli Wei, YuKai Wang, Yueru Jia, <strong>Chenyang Gu</strong>, Rui Zhao, Shanghang Zhang, and Hao Dong*.[[Project Page](https://sites.google.com/view/rwor)]
+    *Liang Heng\*, Xiaoqi Li\*, Shangqing Mao, Jiaming Liu, Ruolin Liu, Jingli Wei, YuKai Wang, Yueru Jia, <strong>Chenyang Gu</strong>, Rui Zhao, Shanghang Zhang, Hao Dong*.[[Project Page](https://sites.google.com/view/rwor)]
 
 - **HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model** (*Under Review*)
     
