@@ -11,6 +11,10 @@
     
     *Liang Heng\*, Xiaoqi Li\*, Shangqing Mao, Jiaming Liu, Ruolin Liu, Jingli Wei, YuKai Wang, Yueru Jia, <strong>Chenyang Gu</strong>, Rui Zhao, Shanghang Zhang, Hao Dong*.[[Project Page](https://sites.google.com/view/rwor)]
 
+- **3DS-VLA: A 3D Spatial-Aware Vision Language Action Model for Robust Multi-Task Manipulation** ( <strong>*CoRL 2025* </strong>)
+
+    *Xiaoqi Li, Liang Heng, Jiaming Liu, Yan Shen, <strong>Chenyang Gu</strong>, Zhuoyang Liu, Hao Chen, Nuowei Han, Renrui Zhang, Hao Tang, Shanghang Zhang, Hao Dong*.
+
 - **HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model** (*Under Review*)
     
     *Jiaming Liu\*, Hao Chen\*, Pengju An, Zhuoyang Liu, Renrui Zhang, <strong>Chenyang Gu</strong>, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC alex Zhou, Pheng-Ann Heng, Shanghang Zhang*.[[Project Page](https://hybrid-vla.github.io/)][[Paper](https://arxiv.org/pdf/2503.10631)][[Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA)]
