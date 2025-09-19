@@ -20,10 +20,6 @@
     
     *Liang Heng\*, Xiaoqi Li\*, Shangqing Mao, Jiaming Liu, Ruolin Liu, Jingli Wei, YuKai Wang, Yueru Jia, <strong>Chenyang Gu</strong>, Rui Zhao, Shanghang Zhang, Hao Dong*.[[Project Page](https://sites.google.com/view/rwor)]
 
-- **AC-DIT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation** ( <strong>*NIPS 2025* </strong> )
-
-    *Sixiang Chen\*, Jiaming Liu\*, Siyuan Qian\*, Han Jiang, Lily Li, Renrui Zhang, Zhuoyang Liu, <strong>Chenyang Gu</strong>, Chengkai Hou, Pengwei Wang, Zhongyuan Wang, Shanghang Zhang*.[[Project Page](https://ac-dit.github.io/)][[Paper](https://arxiv.org/pdf/2507.01961)][[Code](https://github.com/PKU-HMI-Lab/AC-DiT)]
-
 - **HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model** (*Under Review*)
     
     *Jiaming Liu\*, Hao Chen\*, Pengju An, Zhuoyang Liu, Renrui Zhang, <strong>Chenyang Gu</strong>, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC alex Zhou, Pheng-Ann Heng, Shanghang Zhang*.[[Project Page](https://hybrid-vla.github.io/)][[Paper](https://arxiv.org/pdf/2503.10631)][[Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA)]
